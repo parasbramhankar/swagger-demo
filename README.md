@@ -521,17 +521,6 @@ A specification used to **describe REST APIs in JSON or YAML format**.
 
 ---
 
-If you want, I can also explain:
-
-- **Swagger annotations with full examples**
-- **How Swagger works in Microservices with API Gateway**
-- **How companies use Swagger in production**
-- **Common Swagger interview questions**
-
-These will help you **crack Java backend interviews easily.** 🚀
-
----
-
 # Project: User Management API with Swagger
 
 ### Technologies Used
